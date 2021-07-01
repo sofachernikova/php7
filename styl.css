@@ -1,0 +1,44 @@
+body{
+    font-family: 'Montserrat', serif;
+    padding:0;
+    margin: 0; 
+    height: 100%;
+    background-color: #e3d5ff;
+    padding-bottom: 20px;
+}
+.header{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 10%;
+    width: 100%;
+    background-color: rgb(132, 106, 171);
+    color: white;
+}
+.header img{
+    margin: 15px 0 15px 15px;
+    width: 300px;
+
+}
+.name{
+
+text-align: center;
+padding-top: 30px;
+}
+
+main{
+    margin: 15px 0 0 15px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding-bottom: 6px;
+    border-bottom: 1px solid white;
+}
+
+a:hover {
+    border: none;
+    transition: 1s;
+}
+
+
