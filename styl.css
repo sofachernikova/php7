@@ -41,4 +41,9 @@ a:hover {
     transition: 1s;
 }
 
-
+input {
+    background-color: rgb(132, 106, 171);
+    color: white;
+    padding: 6px 15px 5px 15px;
+    border: none;
+}
